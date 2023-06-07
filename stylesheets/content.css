@@ -8,7 +8,7 @@ html::-webkit-scrollbar {
 
 body {
     background-color: #1C1C1C;
-    font-family:'Jost';
+    font-family:'Jost', sans-serif;
     overflow-x: auto;
     clip: rect(auto, auto, auto, auto);
 }
@@ -37,7 +37,7 @@ nav {
 }
 
 h3 {
-    font-family: 'Jost';
+    font-family: 'Jost', sans-serif;;
     font-weight: 700;
     color: #1C1C1C;
     display: block;
@@ -54,7 +54,7 @@ h3 {
 #apoint {
     text-decoration: none;
     text-transform: uppercase;
-    font-family: 'Jost';
+    font-family: 'Jost', sans-serif;;
     font-weight: 700;
     color: #1C1C1C;
     padding-top: 0.38vw;
